@@ -9,3 +9,14 @@ C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Debug\KeywordCh
 C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.exe
 C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.pdb
 C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.formMain.resources
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\bin\Debug\KeywordChecker.exe.config
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\bin\Debug\KeywordChecker.exe
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\bin\Debug\KeywordChecker.pdb
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.csproj.AssemblyReference.cache
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.formMain.resources
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.Properties.Resources.resources
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.csproj.GenerateResource.cache
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.csproj.CoreCompileInputs.cache
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.exe
+C:\Users\Martinez\Documents\GitHub\KeywordChecker\KeywordChecker\obj\Debug\KeywordChecker.pdb

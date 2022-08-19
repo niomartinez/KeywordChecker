@@ -38,6 +38,7 @@
             this.lblStatus = new System.Windows.Forms.Label();
             this.lblKeywords = new System.Windows.Forms.Label();
             this.lblMatches = new System.Windows.Forms.Label();
+            this.chkCaseSensitive = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // txtToCheck
@@ -166,12 +167,24 @@
             this.lblMatches.Text = "0";
             this.lblMatches.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             // 
+            // chkCaseSensitive
+            // 
+            this.chkCaseSensitive.AutoSize = true;
+            this.chkCaseSensitive.Location = new System.Drawing.Point(12, 137);
+            this.chkCaseSensitive.Name = "chkCaseSensitive";
+            this.chkCaseSensitive.Size = new System.Drawing.Size(96, 17);
+            this.chkCaseSensitive.TabIndex = 10;
+            this.chkCaseSensitive.Text = "Case Sensitive";
+            this.chkCaseSensitive.UseVisualStyleBackColor = true;
+            this.chkCaseSensitive.CheckedChanged += new System.EventHandler(this.chkCaseSensitive_CheckedChanged);
+            // 
             // formMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(188)))), ((int)(((byte)(156)))));
             this.ClientSize = new System.Drawing.Size(580, 438);
+            this.Controls.Add(this.chkCaseSensitive);
             this.Controls.Add(this.lblMatches);
             this.Controls.Add(this.lblKeywords);
             this.Controls.Add(this.lblStatus);
@@ -200,6 +213,7 @@
         public System.Windows.Forms.TextBox txtMatch;
         public System.Windows.Forms.Label lblKeywords;
         public System.Windows.Forms.Label lblMatches;
+        public System.Windows.Forms.CheckBox chkCaseSensitive;
     }
 }
 
