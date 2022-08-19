@@ -1,0 +1,11 @@
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\bin\Release\KeywordChecker.exe.config
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\bin\Release\KeywordChecker.exe
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\bin\Release\KeywordChecker.pdb
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Release\KeywordChecker.csproj.AssemblyReference.cache
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Release\KeywordChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Release\KeywordChecker.formMain.resources
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Release\KeywordChecker.Properties.Resources.resources
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Release\KeywordChecker.csproj.GenerateResource.cache
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Release\KeywordChecker.csproj.CoreCompileInputs.cache
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Release\KeywordChecker.exe
+C:\Users\Martinez\source\repos\KeywordChecker\KeywordChecker\obj\Release\KeywordChecker.pdb
